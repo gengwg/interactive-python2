@@ -1,1 +1,1 @@
-# An Introduction to Interactive Programming in Python (Part 2) Coursera course
+# An Introduction to Interactive Programming in Python (Part 2) Coursera course
