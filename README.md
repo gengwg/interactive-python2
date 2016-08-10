@@ -1,1 +1,1 @@
-# An Introduction to Interactive Programming in Python (Part 2) Coursera course
+# An Introduction to Interactive Programming in Python (Part 2) Coursera courseNEVER remove things from a list while you are iterating it.```pythonfor x in y:    ...loop body...```The loop body will execute once for each element of the list yand the loop body will have access to that element as x.
