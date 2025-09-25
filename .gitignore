@@ -90,3 +90,5 @@ ENV/
 
 # vim backup file
 *~
+
+.idea*
